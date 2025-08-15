@@ -1,7 +1,7 @@
 👨🏻‍💻 Lucas Frederico Tramm -
 Estudante de Engenharia de Software
 
-Me chamo Lucas Frederico Tramm, sou natural do Rio Grande do Sul e atualmente curso Engenharia de Software na Unijuí. Tenho foco em Python, desenvolvimento front-end e back-end, reutilização de software, controle de versões e aplicações web. Estou sempre em busca de aprender novas tecnologias e compartilhar conhecimento com a comunidade.
+Me chamo Lucas Frederico Tramm, sou natural do Rio Grande do Sul e atualmente curso Engenharia de Software na Unijuí. Tenho foco em Java e Python, desenvolvimento front-end e back-end, reutilização de software, controle de versões e aplicações web. Estou sempre em busca de aprender novas tecnologias e compartilhar conhecimento com a comunidade.
 
 <p align="left"> <a href="https://github.com/LucasTramm?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LucasTramm?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/LucasTramm?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/LucasTramm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
 
